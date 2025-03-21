@@ -14,6 +14,3 @@ This project analyzes Airbnb listings in Dallas to uncover insights into pricing
 - Tableau Public
 - Excel & Python (Data Preparation)
 - GitHub (Project Showcase)
-
-## 📁 Data
-The data used in this project is available under `/data`.
